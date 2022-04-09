@@ -134,7 +134,7 @@ function viewer() {
 					{
 						'url': 'stun:stun.l.google.com:19302'
 					},
-					{ "url": "turn:3.36.71.122:3478?transport=udp",
+					{ "url": "turn:--.--.--.---:3478?transport=udp",
 						"username": "admin",
 						"credential": "admin"
 					}
